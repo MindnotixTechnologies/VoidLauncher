@@ -18,7 +18,7 @@ android {
 
     defaultConfig {
         applicationId "com.marlonjones.voidlauncher"
-        minSdkVersion 24 //Just for now, until it is tested with older versions
+        minSdkVersion 23 //Just for now, until it is tested with older versions
         targetSdkVersion 25
         versionCode 1
         versionName "0.1"
